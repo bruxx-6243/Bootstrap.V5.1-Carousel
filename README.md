@@ -1,6 +1,6 @@
 <h1>Bootstrap V5.1 Carousel</h1>
 
-<h3>Cliquez sur l'image pour voir l demo</h3>
+<h3>Cliquez sur l'image pour voir la demo</h3>
 
 <hr />
 
